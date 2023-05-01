@@ -1,0 +1,20 @@
+1:Dog:Golden Retriever Dog:6-10:Male:Gets along with other Dogs:Doesn't get along with other Cats:Gets along with small children:Playful, Energetic:Jane:Smith:jane.smith@example.com:Fluffy
+2:Cat:British Shorthair Cat:0-5:Female:Gets along with other Dogs:Gets along with other Cats:Gets along with small children:Playful, Energetic:David:Lee:david.lee@example.com:Fido
+3:Dog:Poodle Dog:6-10:Female:Doesn't get along with other Dogs:Doesn't get along with other Cats:Doesn't get along with small children:Playful, Energetic:Emily:Wang:emily.wang@example.com:Bella
+4:Dog:German Shepherd Dog:More than 15:Male:Doesn't get along with other Dogs:Doesn't get along with other Cats:Doesn't get along with small children:Playful, Energetic:Alex:Jones:alex.jones@example.com:Shadow
+5:Cat:Sphynx Cat:More than 15:Female:Gets along with other Dogs:Gets along with other Cats:Gets along with small children:Playful, Energetic:Olivia:Kim:olivia.kim@example.com:Simba
+6:Dog:Golden Retriever Dog:0-5:Male:Gets along with other Dogs:Gets along with other Cats:Gets along with small children:Playful, Energetic:Ethan:Chen:ethan.chen@example.com:Daisy
+7:Cat:Siamese Cat:10-15:Female:Doesn't get along with other Dogs:Doesn't get along with other Cats:Gets along with small children:Playful, Energetic:Sarah:Garcia:sarah.garcia@example.com:Luna
+8:Dog:Golden Retriever Dog:6-10:Female:Gets along with other Dogs:Gets along with other Cats:Doesn't get along with small children:Playful, Energetic:Michael:Rodriguez:michael.rodriguez@example.com:Rocky
+9:Dog:German Shepherd Dog:0-5:Male:Doesn't get along with other Dogs:Gets along with other Cats:Gets along with small children:Playful, Energetic:Emma:Martinez:emma.martinez@example.com:Charlie
+10:Cat:Persian Cat:More than 15:Female:Doesn't get along with other Dogs:Gets along with other Cats:Gets along with small children:Playful, Energetic:Daniel:Kim:daniel.kim@example.com:Coco
+11:Dog:Bulldog Dog:10-15:Female:Gets along with other Dogs:Doesn't get along with other Cats:Gets along with small children:Playful, Energetic:Sophia:Hernandez:sophia.hernandez@example.com:Max
+12:Cat:British Shorthair Cat:6-10:Male:Gets along with other Dogs:Doesn't get along with other Cats:Doesn't get along with small children:Playful, Energetic:Matthew:Nguyen:matthew.nguyen@example.com:Oliver
+13:Dog:Poodle Dog:6-10:Male:Gets along with other Dogs:Doesn't get along with other Cats:Doesn't get along with small children:Playful, Energetic:Isabella:Perez:isabella.perez@example.com:Ruby
+14:Dog:Bulldog Dog:0-5:Male:Doesn't get along with other Dogs:Gets along with other Cats:Doesn't get along with small children:Playful, Energetic:Jacob:Smith:jacob.smith@example.com:Rusty
+15:Cat:Sphynx Cat:0-5:Female:Doesn't get along with other Dogs:Gets along with other Cats:Doesn't get along with small children:Playful, Energetic:Ava:Johnson:ava.johnson@example.com:Ginger
+16:Dog:Golden Retriever Dog:More than 15:Female:Gets along with other Dogs:Doesn't get along with other Cats:Gets along with small children:Playful, Energetic:William:Davis:william.davis@example.com:Pepper
+17:Dog:German Shepherd Dog:10-15:Female:Doesn't get along with other Dogs:Gets along with other Cats:Gets along with small children:Playful, Energetic:Mia:Hernandez:mia.hernandez@example.com:Bailey
+18:Cat:British Shorthair Cat:More than 15:Male:Gets along with other Dogs:Doesn't get along with other Cats:Doesn't get along with small children:Playful, Energetic:JamesTaylor:james.taylor@example.com:Toby
+19:Dog:Poodle Dog:0-5:Female:Doesn't get along with other Dogs:Doesn't get along with other Cats:Doesn't get along with small children:Playful, Energetic:Charlotte:Jackson:charlotte.jackson@example.com:Zeus
+20:Cat:Siamese Cat:0-5:Male:Gets along with other Dogs:Gets along with other Cats:Doesn't get along with small children:Playful, Energetic:Benjamin:Anderson:benjamin.anderson@example.com:Molly
